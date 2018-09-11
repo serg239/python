@@ -1,2 +1,2 @@
 # Repo: expy37
-Exercises in Python 3.7
+Exercises in Python v3.7
