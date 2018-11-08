@@ -2,7 +2,7 @@
 
 The project PyHowTo has been published on http://35.208.221.46/
 
-This project contains a code samples for Python language organized in the groups:
+This project contains about 820 code samples for Python language organized in the following groups:
 
 * [01_basic](http://35.208.221.46/01_basic.html)
 * [02_intermediate](http://35.208.221.46/02_intermediate.html)
