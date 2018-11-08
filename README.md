@@ -1,8 +1,8 @@
 # PyHowTo ptoject
 
-The project PyHowTo has been published on http://35.208.221.46/
+The project **PyHowTo** has been published on Google Cloud: http://35.208.221.46/
 
-This project contains about 820 code samples for Python language organized in the following groups:
+This project consists of about **820 Python code samples** organized in following groups:
 
 * [01_basic](http://35.208.221.46/01_basic.html)
 * [02_intermediate](http://35.208.221.46/02_intermediate.html)
