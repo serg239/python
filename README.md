@@ -29,7 +29,7 @@ This project consists of about **1800 Python tasks and 2300 solutions** organize
 * [Math](https://pyhowto.tech/math.html)
 * [Decorator](https://pyhowto.tech/decorator.html)
 
-**Tutors*
+**Tutors**
 
 * [Basic](https://pyhowto.tech/01_basic.html)
 * [Intermediate](https://pyhowto.tech/02_intermediate.html)
