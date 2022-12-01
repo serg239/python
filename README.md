@@ -1,30 +1,45 @@
-# PyHowTo ptoject
+The project **PyHowTo** has been published on **PyHowTo.tech** web site https://pyhowto.tech/
 
-The project **PyHowTo** has been published on Google Cloud: http://35.208.221.46/
+This project consists of about **1800 Python tasks and 2300 solutions** organized in following groups:
 
-This project consists of about **820 Python code samples** organized in following groups:
+**Algorithms**
 
-* [01_basic](http://35.208.221.46/01_basic.html)
-* [02_intermediate](http://35.208.221.46/02_intermediate.html)
-* [03_advanced](http://35.208.221.46/03_advanced.html)
-* [array](http://35.208.221.46/array.html)
-* [class](http://35.208.221.46/class.html)
-* [data](http://35.208.221.46/data.html)
-* [datetime](http://35.208.221.46/datetime.html)
-* [decorator](http://35.208.221.46/decorator.html)
-* [dictionary](http://35.208.221.46/dictionary.html)
-* [file_io](http://35.208.221.46/file_io.html)
-* [function](http://35.208.221.46/function.html)
-* [if_loop](http://35.208.221.46/if_loop.html)
-* [list](http://35.208.221.46/list.html)
-* [math](http://35.208.221.46/math.html)
-* [recursion](http://35.208.221.46/recursion.html)
-* [regex](http://35.208.221.46/regex.html)
-* [searches](http://35.208.221.46/searches.html)
-* [set](http://35.208.221.46/set.html)
-* [sort](http://35.208.221.46/sort.html)
-* [string](http://35.208.221.46/string.html)
-* [tkinter](http://35.208.221.46/tkinter.html)
-* [tuple](http://35.208.221.46/tuple.html)
-* [turtle](http://35.208.221.46/turtle.html)
-* [web](http://35.208.221.46/web.html)
+* [Recursion](https://pyhowto.tech/recursion.html)
+* [Backtracking](https://pyhowto.tech/backtracking.html)
+* [Dynamic Programming](https://pyhowto.tech/dynamic_programming.html)
+* [Greedy](https://pyhowto.tech/greedy.html)
+* [Sort](https://pyhowto.tech/sort.html)
+* [Binary Search](https://pyhowto.tech/search_bin.html)
+* [Depth First Search (DFS)](https://pyhowto.tech/search_dfs.html)
+* [Breadth First Search (BFS)](https://pyhowto.tech/search_bfs.html)
+* [Binary Search Tree (BST)](https://pyhowto.tech/search_bst.html)
+
+**Structures**
+
+* [Array](https://pyhowto.tech/array.html)
+* [String](https://pyhowto.tech/string.html)
+* [Heap](https://pyhowto.tech/.heaphtml)
+* [Stack](https://pyhowto.tech/stack.html)
+* [Queue](https://pyhowto.tech/queue.html)
+* [Tree](https://pyhowto.tech/tree.html)
+* [Linked List](https://pyhowto.tech/linked_list.html)
+* [Hash Table](https://pyhowto.tech/hash_table.html)
+* [Bit Manipulation](https://pyhowto.tech/bit_manipulation.html)
+* [Two Pointers](https://pyhowto.tech/two_pointers.html)
+* [Math](https://pyhowto.tech/math.html)
+* [Decorator](https://pyhowto.tech/decorator.html)
+
+**Tutors*
+
+* [Basic](https://pyhowto.tech/01_basic.html)
+* [Intermediate](https://pyhowto.tech/02_intermediate.html)
+* [Advanced](https://pyhowto.tech/03_advanced.html)
+* [Interview](https://pyhowto.tech/04_interview.html)
+
+**Applications**
+
+* [Spark](https://pyhowto.tech/spark.html)
+* [Tkinter](https://pyhowto.tech/tkinter.html)
+* [Turtle](https://pyhowto.tech/turtle.html)
+* [Games](https://pyhowto.tech/games.html)
+* [Web](https://pyhowto.tech/web.html)
